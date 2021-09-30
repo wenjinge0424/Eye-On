@@ -1,0 +1,156 @@
+
+/* Class = "UIButton"; normalTitle = "menu"; ObjectID = "071-Cj-Ydy"; */
+"071-Cj-Ydy.normalTitle" = "menu";
+
+/* Class = "UILabel"; text = "test"; ObjectID = "0u9-rO-Agw"; */
+"0u9-rO-Agw.text" = "test";
+
+/* Class = "UIButton"; normalTitle = "Open Event"; ObjectID = "1vE-63-nkC"; */
+"1vE-63-nkC.normalTitle" = "Open Event";
+
+/* Class = "UILabel"; text = "Nearby"; ObjectID = "31K-Jp-448"; */
+"31K-Jp-448.text" = "Nearby";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "4xG-zW-AQK"; */
+"4xG-zW-AQK.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "category"; ObjectID = "808-cT-Zhn"; */
+"808-cT-Zhn.normalTitle" = "category";
+
+/* Class = "UILabel"; text = "Search Results"; ObjectID = "9n6-4z-xIO"; */
+"9n6-4z-xIO.text" = "Search Results";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "A20-au-Em2"; */
+"A20-au-Em2.normalTitle" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "I'm Attending!"; ObjectID = "B90-pU-BWI"; */
+"B90-pU-BWI.normalTitle" = "I'm Attending!";
+
+/* Class = "UILabel"; text = "Venus Followed"; ObjectID = "C49-Ku-Lui"; */
+"C49-Ku-Lui.text" = "Venus Followed";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "DBQ-Bg-KJw"; */
+"DBQ-Bg-KJw.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ESl-ao-Rq4"; */
+"ESl-ao-Rq4.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "GyG-kJ-cJe"; */
+"GyG-kJ-cJe.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "menu"; ObjectID = "HEF-B2-heY"; */
+"HEF-B2-heY.normalTitle" = "menu";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "Hof-LP-gth"; */
+"Hof-LP-gth.normalTitle" = "5";
+
+/* Class = "UILabel"; text = "Welcome to Dilly"; ObjectID = "JmN-0f-iEy"; */
+"JmN-0f-iEy.text" = "Welcome to Dilly";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "KkO-rT-coI"; */
+"KkO-rT-coI.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Connections"; ObjectID = "L4d-JC-Fh5"; */
+"L4d-JC-Fh5.text" = "Connections";
+
+/* Class = "UIButton"; normalTitle = "View Comments"; ObjectID = "P2C-S3-5sk"; */
+"P2C-S3-5sk.normalTitle" = "View Comments";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "PuR-ma-ILy"; */
+"PuR-ma-ILy.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "Qdx-ac-iqv"; */
+"Qdx-ac-iqv.text" = "Messages";
+
+/* Class = "UILabel"; text = "Search Events"; ObjectID = "RSM-fo-Rhz"; */
+"RSM-fo-Rhz.text" = "Search Events";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TI8-Q5-AV8"; */
+"TI8-Q5-AV8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "UdI-4U-oRv"; */
+"UdI-4U-oRv.text" = "Settings";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "UjW-dw-b7N"; */
+"UjW-dw-b7N.text" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ula-bY-d7j"; */
+"Ula-bY-d7j.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "Ux3-3c-m0g"; */
+"Ux3-3c-m0g.text" = "Menu";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "WKM-j9-x5h"; */
+"WKM-j9-x5h.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "XPX-f5-lUR"; */
+"XPX-f5-lUR.normalTitle" = "1";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "XW0-dL-fXV"; */
+"XW0-dL-fXV.title" = "Item";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "Yy8-Du-Ukk"; */
+"Yy8-Du-Ukk.text" = "My Profile";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Zm0-KU-heu"; */
+"Zm0-KU-heu.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "bkC-TA-ve2"; */
+"bkC-TA-ve2.normalTitle" = "GO";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "cAH-oV-Dak"; */
+"cAH-oV-Dak.normalTitle" = "back";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "cn3-2a-Q4M"; */
+"cn3-2a-Q4M.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "dSC-J4-YUd"; */
+"dSC-J4-YUd.normalTitle" = "back";
+
+/* Class = "UIButton"; normalTitle = "French"; ObjectID = "daA-dd-4cJ"; */
+"daA-dd-4cJ.normalTitle" = "French";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "fCk-YN-mtw"; */
+"fCk-YN-mtw.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g39-mw-lHY"; */
+"g39-mw-lHY.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "jPo-1J-kzH"; */
+"jPo-1J-kzH.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "Join Event"; ObjectID = "kdI-IQ-v0t"; */
+"kdI-IQ-v0t.normalTitle" = "Join Event";
+
+/* Class = "UITextView"; text = "Find out where the hottest events are near your area all for free!"; ObjectID = "lbs-LR-buJ"; */
+"lbs-LR-buJ.text" = "Find out where the hottest events are near your area all for free!";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "lmc-uY-dfW"; */
+"lmc-uY-dfW.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "mxH-uF-bvk"; */
+"mxH-uF-bvk.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "ryi-Nj-5c9"; */
+"ryi-Nj-5c9.normalTitle" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "menu"; ObjectID = "s1S-qa-Eha"; */
+"s1S-qa-Eha.normalTitle" = "menu";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "sP9-AY-SAy"; */
+"sP9-AY-SAy.text" = "Forgot Password";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "svh-Xp-Tlj"; */
+"svh-Xp-Tlj.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "tSC-3e-svj"; */
+"tSC-3e-svj.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "uF3-27-lxB"; */
+"uF3-27-lxB.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Search Results"; ObjectID = "vJP-TC-oJj"; */
+"vJP-TC-oJj.text" = "Search Results";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "yBB-Qg-2AI"; */
+"yBB-Qg-2AI.normalTitle" = "back";

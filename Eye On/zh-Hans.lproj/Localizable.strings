@@ -1,0 +1,467 @@
+/*
+ Localizable.strings
+ Eye On
+ 
+ Created by developer on 23/03/17.
+ Copyright © 2017 Vitaly. All rights reserved.
+ */
+/* no need to tranlate */
+"doc_name_about" = "about_cn";
+"doc_name_terms" = "termsconditions_cn";
+"doc_name_policy" = "privacypolicy_cn";
+
+
+/* common */
+"email" = "Email";
+"input_email_description" = "Please input description";
+"phone" = "Phone";
+"send" = "SEND";
+"password" = "Password";
+"OK" = "OK";
+"close" = "CLOSE";
+"next" = "NEXT";
+"btn_next" = "Next";
+"all_done" = "ALL DONE!";
+"done" = "Done";
+"location" = "Location";
+"error" = "Error";
+"cancel" = "Cancel";
+"btn_cancel" = "CANCEL";
+"gps_error" = "Unable to use GPS. Please check your permission in Settings > Privacy > Location Service";
+"network_error" = "No internet connectivity detected.";
+"skip" = "Skip";
+"yes" = "Yes";
+"no" = "No";
+"please_wait" = "Please Wait...";
+"translating" = "Translating...";
+"success" = "Success";
+"unsave" = "Unsave";
+"save" = "Save";
+"not_available_call" = "You can't call in this device";
+"not_available_web" = "You cannot open this url.";
+"message_sent" = "Message Sent";
+"message_failed" = "Message Failed";
+"message_saved" = "Message Saved";
+"message_cancelled" = "Message Cancelled";
+"email_sent" = "Email Sent";
+"email_failed" = "Email Failed";
+"email_saved" = "Email Saved";
+"email_cancelled" = "Email Cancelled";
+
+/* Push Notification Message */
+"started_following_venue" = "has started following your venue.";
+"saved_venue" = "has tagged your venue.";
+"invited" = "has invited your to a private event.";
+"purchased_ticket" = "has purchased your ticket.";
+"notifications" = "Notifications";
+
+/* Tutorial Screen */
+"title_page_one" = "Welcome to Dilly!";
+"title_page_two" = "Discover";
+"title_page_three" = "Easy as 1,2,3!";
+"title_page_four" = "Event Organizers?";
+
+"description_page_one" = "Find our where the hottest events are near your area all for free! Or you can broadcast your own event to sell your tickets!";
+"description_page_two" = "Discover events by simply tapping their markers on the map.";
+"description_page_three" = "Get full member access just by creating a FREE acccount. \n\nGet discounts by joining or sharing events. \n\nBuy your tickets through the app!";
+"description_page_four" = "Any member can broadcast their events. \n\nShare all your event details and start an incentive program for users. \n\nSell your tickets through the app!";
+
+/* Main Screen */
+"msg_login_required" = "You need to login first to continue. Are you want to login now?";
+"title_action_required" = "Action Required";
+
+/* Log In */
+"button_login" = "SIGN IN";
+"button_forgot_password" = "Forgot Password?";
+"button_sign_up" = "No account? Sign Up HERE";
+"or_login_with" = "Or Log In with";
+"msg_not_registerd_email" = "Unrecognized email. ";
+"login_failed" = "Login Failed";
+"incorrect_password" = "Incorrect password. Please try again.";
+"fail_to_google_login" = "Failed to login Google.";
+"success_login" = "You have successfully logged in";
+"fail_fetch_facebook" = "Failed to fetch Facebook profile.";
+
+/* Reset Password */
+"invalid_entry" = "Please check your entry and try again.";
+"button_submit" = "SUBMIT";
+"registered_email" = "Registered email";
+"msg_not_email_registered" = "This email does not exist in our records.";
+"forgot_password" = "Forgot password";
+"resetpwd" = "Reset Password";
+"no email" = "Please enter your email.";
+"no_password" = "Please enter your password.";
+"no_email_password" = "Please enter your email and password.";
+"reset_email_sent" = "We have sent a password reset link to your email address. Please check your email";
+
+/* Sign Up */
+"sign_up" = "Sign Up";
+"sign_up_one" = "Let's make a free account!";
+"valid_email" = "Valid email.";
+"not_in_use" = "Not in use.";
+"sign_up_two" = "Safety first!";
+"sign_up_three" = "Almost done!";
+"sign_up_four" = "Last step!";
+"enter_email" = "Enter your email";
+"enter_password" = "Enter your password";
+"choose_password" = "Choose a Password";
+"re_enter_password" = "Re-Enter Your Password";
+"match_password" = "Matches new password.";
+"upload_photo" = "Upload Photo";
+"optional" = "optional";
+"choose_username" = "Choose a username";
+"birthday" = "Birthday(mm/dd/yyyy)";
+"invalid_email" = "Please check your email and try again.";
+"registered_email" = "This email is already registered.";
+"try_again" = "Try Again";
+"short_password" = "Password is too short. Please check and try again.";
+"long_password" = "Password is too long. Please check and try again.";
+"no_upper_case" = "Password must have at least 1 upper case letter. Please check and try again.";
+"no_lower_case" = "Password must have at least 1 lower case letter. Please check and try again.";
+"no_number" = "Password must have at least 1 number. Please check and try again.";
+"not_match_password" = "Your passwords do NOT match. Please try again.";
+"camera" = "Camera";
+"gallery" = "Gallery";
+"password_length_validation" = "At least 6 characters long.";
+"password_upper_validation" = "Contains uppercase letter.";
+"password_lower_validation" = "Contains lowercase letter.";
+"password_number_validation" = "Contains a number.";
+"above_age" = "Above age restriction.";
+"sign_up_success" = "Congratulations! Your account was created successfully.";
+
+/* category */
+"category_title" = "What do you want to see?";
+"category_desc" = "Tap on at least 1 category";
+"save_later" = "SAVE FOR LATER";
+
+// main category
+"category_main_restaurant" = "Restaurants";
+"category_main_bars" = "Bars \nPubs\n Clubs";
+"category_main_sport" = "Live Sport";
+"category_main_music" = "Live Music";
+"category_main_cafes" = "Cafes";
+"category_main_networking" = "Networking";
+"category_main_clubs" = "Clubs";
+"category_main_hotel" = "Hotels";
+"sub_category" = "Sub-Categories";
+"categories" = "Categories";
+"5_categories" = "Please select at least 5 categories you would like to see.";
+"1_categories" = "Please select at least 1 event category you would like to see.";
+
+// subcategory
+//-- restaurant --//
+"category_restaurant_chinese" = "Chinese";
+"category_restaurant_japanese" = "Japanese";
+"category_restaurant_malaysian" = "Malaysian";
+"category_restaurant_thai" = "Thai";
+"category_restaurant_indian" = "Indian";
+"category_restaurant_korean" = "Korean";
+"category_restaurant_vietnam" = "Vietnamese";
+"category_restaurant_british" = "British";
+"category_restaurant_french" = "French";
+"category_restaurant_german" = "German";
+"category_restaurant_italian" = "Italian";
+"category_restaurant_mediterranean" = "Mediterranean";
+"category_restaurant_russian" = "Russian";
+"category_restaurant_spanish" = "Spanish";
+"category_restaurant_mexican" = "Mexican";
+"category_restaurant_tex" = "Text-Mex";
+"category_restaurant_middle_estern" = "Middle Eastern";
+"category_restaurant_lebonese" = "Lebonese";
+"category_restaurant_bbq" = "BBQ";
+//-- bars -- //
+"category_bars_sport" = "Sports bars";
+"category_bars_speak_easy" = "Speak easy";
+"category_bars_cocktail" = "Cocktail";
+"category_bars_craft" = "Craft";
+"category_bars_budget" = "Budget";
+"category_bars_high_end" = "High End";
+"category_bars_wine" = "Wine";
+"category_bars_lounge" = "Lounge";
+"category_bars_themed" = "Themed";
+"category_bars_quiz" = "Quiz";
+"category_bars_student" = "Student";
+"category_bars_cigar" = "Cigar";
+"category_bars_dive" = "Dive";
+"category_bars_brew_house" = "Brew house";
+"category_bars_beach" = "Beach";
+//-- Live Sport --//
+"category_sport_soccer" = "Soccer";
+"category_sport_rugby" = "Rugby";
+"category_sport_tennis" = "Tennis";
+"category_sport_nfl" = "NFL";
+"category_sport_nhl" = "NHL";
+"category_sport_baseball" = "Baseball";
+"category_sport_afl" = "AFL";
+"category_sport_mma" = "MMA";
+"category_sport_boxing" = "Boxing";
+"category_sport_winter" = "Winter";
+//-- Live Music --//
+"category_music_rock" = "Rock";
+"category_music_punk"= "Punk";
+"category_music_reggae" = "Reggae";
+"category_music_soul" = "Soul";
+"category_music_country_western" = "Country & Western";
+"category_music_signer" = "Singer/songwriter";
+"category_music_acoustic" = "Acoustic";
+"category_music_jazz" = "Jazz";
+"category_music_blues" = "Blues";
+"category_music_cover_bands" = "Cover Bands";
+"category_music_open_mic" = "Open Mic";
+"category_music_lounge" = "Lounge";
+"category_music_electro" = "Electro";
+"category_music_techno" = "Techno";
+//-- Network --//
+"category_network_chambers" = "Chambers";
+"category_network_alumni" = "Alumni";
+"category_network_proffesional" = "Proffesional";
+"category_network_charity" = "Charity";
+"category_network_hobbies" = "Hobbies";
+"category_network_school" = "Schools";
+"category_network_community" = "Community";
+
+"select_all" = "Select All";
+"disselect_all" = "Disselect All";
+
+/* Home Screen*/
+
+/* Event Pop Up */
+"attending" = "I'm Attending!";
+"open_event" = "Open Event";
+"not_going_anymore" = "Not Going Anymore";
+
+/* Event Detail */
+"show_map" = "Show Map";
+"map" = "Map";
+"contact_venue" = "Contact Venue";
+"follow" = "Follow";
+"view_offer" = "VIEW OFFERS";
+"redeem" = "REDEEM";
+"join_event" = "JOIN EVENTS";
+"add_to_calendar" = "Add to Calendar";
+"get_there_with_uber" = "Get there with UBER";
+"ride_time" = "Ride time 7 mins.";
+"tickets" = "Tickets";
+"available_purchase" = "Availabe. Tap to Purchase";
+"free_event" = "Free event";
+"no_tickets" = "No tickets remaining";
+"going" = "going";
+"everything_off" = "Everything is 50% off. EVERYTHING.";
+"occurs_daily" = "Occurs Daily";
+"occurs" = "Occurs";
+"see_you_there" = "See you there!";
+"event_full" = "We apologize. This event is full.";
+"cool" = "Cool!";
+"already_purchase" = "You have already purchased this ticket!";
+
+/* View Offers */
+"redem_header" = "Offer redeemed";
+"times" = "times";
+"hurry" = "Hurry!";
+"left" = "left!";
+
+/* Venue Deatil */
+"unfollow" = "Unfollow";
+"mute" = "Mute";
+"unmute" = "Unmute";
+"active_events" = "ACTIVE EVENTS";
+"completed_events" = "COMPLETED EVENTS";
+
+/* Connections */
+"saved_events" = "Saved Events";
+"venue_followers" = "Venue Followers";
+"connections" = "Connections";
+"no_saved_events" = "No Saved Events";
+"no_followers" = "No Venue Followers";
+
+/* Search */
+"search_events" = "Search Events";
+"here_now" = "Here and Now";
+"find_events_desc" = "Find events based on your current location.";
+"plan_ahead" = "Planning Ahead";
+"look_for_events" = "Look for events happening in other places.";
+"search_for_event" = "Search for an Event";
+"search_radius" = "Search Radius";
+"enter_city" = "Enter City";
+"date_from" = "Date From";
+"date_to" = "Date To";
+"go" = "Go";
+"no_name" = "Please enter the event name and make sure search proximity is not set to 0.";
+"no_city" = "Please enter the City and the Date you will be arriving to search.";
+
+/* Search results */
+"search_results" = "Events";
+"kilometer_away" = "km away";
+"kimometer" = "km";
+"no_search_result" = "No events found. Please change your search criteria and try again.";
+
+/* Venue */
+"venues_followed" = "Venues Followed";
+"no_result_venue_followed" = "You are not currently following events of any registered venues";
+
+/* Choose Language */
+"lng_chinese" = "中文";
+"lng_engligh" = "ENGLISH";
+"lng_thai" = "ไทย";
+"choose_language" = "Choose A Language";
+"confirm" = "Confirm";
+
+/* Side Menu */
+"notifications" = "Notifications";
+"currency" = "Currency";
+"language" = "Language";
+"sendfeedback" = "Send Feedback";
+"about" = "About";
+"termsconditions" = "Terms & Conditions";
+"privacy" = "Privacy Policy";
+"review_app" = "Love Dilly? Review Us!";
+
+/* Notification Setting */
+"notification_header" = "Receive Push Notifications for:";
+"allow_all" = "All venues I follow";
+"allow_attending" = "Events I am attending";
+"allow_area" = "All venues in my area";
+
+/* Profile */
+"my_profile" = "My Profile";
+"events_attending" = "EVENTS ATTENDED";
+"events_attending_low" = "Events Attended";
+"offers_redeemed_low" = "Offers Redeemed";
+"offers_redeemed" = "OFFERS REDEEMED";
+"PrivateEvents" = "PRIVATE EVENTS";
+"create_event" = "CREATE EVENT";
+"my_ticket" = "MY TICKETS";
+"my_events" = "MY EVENTS";
+"logout" = "LOG OUT";
+"logging_out" = "Logging Out...";
+"events_created" = "Events Created";
+"ticket_sold" = "Tickets Sold";
+"deal_offer" = "Deals Offered";
+"venue_profile" = "VENUE PROFILE";
+
+"edit_profile" = "Edit Profile";
+"first_name" = "First Name";
+"last_name" = "Last Name";
+"change_password" = "CHANGE PASSWORD";
+"change_pwd" = "Change Password";
+"delete_account" = "DELETE ACCOUNT";
+"invalid_birthday" = "Invalid birthday";
+"current_password" = "Current Password";
+"new_password" = "New Password";
+"confirm_password" = "Confirm Password";
+"no_changed" = "No Changes";
+"msg_save_required" = "Are you sure you don't want to save your changes?";
+"msg_delete_account" = "Are you sure you want to delete your account?";
+"msg_irreversible" = "This is irreversible";
+
+/* Private Events */
+"private_events" = "Private Events";
+
+/* My Tickets */
+"my_tickets" = "My Tickets";
+
+/* Choose a Plan */
+"choose_plan" = "Choose a Plan";
+"pay" = "PAY";
+
+/* Register Venue */
+"register_venue" = "Register your Venue";
+"register_header_one" = "Welcome! I see this is your first event. Let's setup your venue profile first so people know where to go.";
+"register_header_two" = "Find your address or simply tap on an existing pin if it's on the map.";
+"register_header_three" = "Last step! Tell us a few more details for customers to see.";
+"venue_name" = "Venue or Establishment Name";
+"where_location" = "Tell Us Where You're Located";
+"operating_hours" = "Operating Hours";
+"contact_number" = "Contact Number";
+"email_address" = "Email Address";
+"unknown_address" = "Unknown Address";
+"website" = "Website";
+"leave_message" = "Leave a message for customers?";
+"short_venue_name" = "Your name is too short. Please write your venue's proper name.";
+"long_venue_name" = "Your name is too long. Please write your venue's proper name.";
+"type_address" = "Type Address";
+"short_message" = "Message is too short. Please write your proper message.";
+"long_message" = "Message is too long. Please write your proper message.";
+"saving" = "Saving...";
+"no_contact_num" = "Please input your Venue Contact Number";
+"no_hours_num" = "Please input your Venue Operating Hours";
+"no_venue_email" = "Please input your Venue Email Address";
+"no_website" = "Please input your Venue WebSite";
+"short_offer_title" = "Offer title is too short. Please write your proper offer title.";
+"no_qty" = "Please enter Qty";
+"long_offer_title" = "Offer title is too long. Please write your proper offer offer title.";
+"no_event_name" = "Please enter your event name.";
+
+/* location confirm */
+"you_chosen" = "You have chosen";
+"is_establishment?" = "Is this your establishment?";
+
+/* Venue */
+"send_invite" = "SEND INVITE";
+"send_email" = "SEND EMAIL";
+"send_message" = "SEND MESSAGE";
+"establish_description" = "This establishment has not registered with Dilly yet. Would you like to invite them to join us so you can get updates straight from the app?";
+"err_send_email" = "You cannot send mail from this device";
+"err_send_message" = "You cannot send message from this device";
+"invite_sent" = "Invite Sent!";
+"invite_failed" = "Invite Failed!";
+"invite_saved" = "Message Saved!";
+"invite_cancelled" = "Invite Cancelled!";
+"share" = "Share";
+"share_description" = "Tap address to translate to local language";
+"share_email" = "Share via Email";
+"share_sms" = "Share via SMS";
+
+/* Create Event */
+"create_offer" = "Create An Offer";
+"create_event_title" = "Create Event";
+"name_event" = "Name of Event";
+"start" = "Start";
+"end" = "End";
+"repeat" = "Repeat?";
+"numberweeks" = "Number of Weeks?";
+"days" = "Days?";
+"private_event" = "Is this a Private Event?";
+"invite_followers" = "Invite Followers";
+"monday" = "MON";
+"tuesday" = "TUE";
+"wednesday" = "WED";
+"thursday" = "THU";
+"friday" = "FRI";
+"saturday" = "SAT";
+"sunday" = "SUN";
+"add_offer_desc" = "(You may skip this screen if your do not have offers.)";
+"add_more" = "ADD MORE";
+"offer_title" = "Offer Title";
+"qty" = "Qty";
+"free_entry" = "Free Entry?";
+"event_category" = "Event Category";
+"write_event_desc" = "Write a short event description";
+"invalid_date" = "Oops! You cannot select past date.";
+"invalid_end_date" = "Please choose valid end date";
+"no_category" = "Please choose your category";
+
+/* User List */
+"choose_users" = "Please choose at least 1 user";
+"Users" = "Users";
+
+/* Send Push */
+"push_notification" = "Push Notification";
+"send_push" = "Send Push";
+"not_applicable" = "Not Applicable";
+"action_promote" = "Promote";
+"action_remind" = "Remind";
+"action_advertise" = "Advertise Offers";
+"come_visit" = "Come and visit:";
+"have_event" = "is having an event:";
+"dont_foget" = "Dont't foget";
+"at" = "at";
+"on" = "on";
+"join" = "Join";
+"enjoy_offer" = "and enjoy exclusive offers while they last!";
+
+/* Stripe */
+"connect_stripe_msg" = "This app requires a connected 'Stripe' account in order that the user may be paid for services rendered - please either signup and/or connect your 'Stripe' account to our app.";
+"need_stripe" = "This event requires a connected ‘Stripe’ account";
+"payment_success" = "Your payment was successful.";
+"unable_to_pay" = "Unable to process payment. Please check your details and try again.";
